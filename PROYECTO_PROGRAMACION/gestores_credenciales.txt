@@ -1,0 +1,40 @@
+CREDENCIALES DEL GESTOR NUMERO 1 CHAVEZ HUAMANI JULIO DANIEL EN EL SISTEMA DE RECICLAJE:
++-----------------+------------------------------------------+
+|       ID        |                  daniel                  |
++-----------------+------------------------------------------+
+|   Contraseña    |                   147                    |
++-----------------+------------------------------------------+
+
+
+CREDENCIALES DEL GESTOR NUMERO 2 ACEITUNO HUAMAN LUIS GERONIMO EN EL SISTEMA DE RECICLAJE:
++-----------------+------------------------------------------+
+|       ID        |                  aceite                  |
++-----------------+------------------------------------------+
+|   Contraseña    |                   258                    |
++-----------------+------------------------------------------+
+
+
+CREDENCIALES DEL GESTOR NUMERO 3 GUTIERREZ YACHACHIN JOSE EMANUEL EN EL SISTEMA DE RECICLAJE:
++-----------------+------------------------------------------+
+|       ID        |                   jose                   |
++-----------------+------------------------------------------+
+|   Contraseña    |                   369                    |
++-----------------+------------------------------------------+
+
+
+CREDENCIALES DEL GESTOR NUMERO 4 OCAÑA SUAREZ MANUEL PIERCE EN EL SISTEMA DE RECICLAJE:
++-----------------+------------------------------------------+
+|       ID        |                  manuel                  |
++-----------------+------------------------------------------+
+|   Contraseña    |                   159                    |
++-----------------+------------------------------------------+
+
+
+CREDENCIALES DEL GESTOR NUMERO 5 FALCON VILCA JAIRO DANIEL EN EL SISTEMA DE RECICLAJE:
++-----------------+------------------------------------------+
+|       ID        |                  jairo                   |
++-----------------+------------------------------------------+
+|   Contraseña    |                   357                    |
++-----------------+------------------------------------------+
+
+

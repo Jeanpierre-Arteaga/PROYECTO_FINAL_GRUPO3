@@ -1,0 +1,24 @@
+CREDENCIALES DEL USUARIO NUMERO 1 ARTEAGA ESPINOZA JEANPIERRE ALEXANDER EN EL SISTEMA DE RECICLAJE:
++-----------------+------------------------------------------+
+|       ID        |                   jean                   |
++-----------------+------------------------------------------+
+|   Contraseña    |                   123                    |
++-----------------+------------------------------------------+
+
+
+CREDENCIALES DEL USUARIO NUMERO 2 MUÑOZ ALIAGA BRYAN STEPHANO EN EL SISTEMA DE RECICLAJE:
++-----------------+------------------------------------------+
+|       ID        |                  bryan                   |
++-----------------+------------------------------------------+
+|   Contraseña    |                   456                    |
++-----------------+------------------------------------------+
+
+
+CREDENCIALES DEL USUARIO NUMERO 3 GONZALES ESTELA LUIS ALONSO EN EL SISTEMA DE RECICLAJE:
++-----------------+------------------------------------------+
+|       ID        |                  luisg                   |
++-----------------+------------------------------------------+
+|   Contraseña    |                   789                    |
++-----------------+------------------------------------------+
+
+
